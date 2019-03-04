@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+		<style type = "text/css">
+		
+		.pic{
+
+			float: right;			
+			border: 2px solid #FFF;
+			width: 25%;
+			height: 25%;
+			clear:both;
+		}
+		#title{
+			font-size: 150%; 
+			color: lightblue;
+			text-align: center;
+			clear: both;
+		}
+
+			#objectiveBlock{
+			float: left;
+			}
+
+			#contactInfo{
+				color:darkred;
+				text-align: center; 
+			}
+
+
+			body{
+
+				background-color: grey;
+			}
+			.sectionLabel{
+				color:white;
+			}
+			#footer{
+				text-align: center;
+
+			}
+			#link{
+				color: blue;
+			}
+
+		</style>
+</html>
